@@ -1,8 +1,10 @@
 Tangodir = $(datadir)/xfce4/eyes/themes/Tango
 
 Tango_DATA =								\
-	tango-eye.png							\
-	tango-pupil.png							\
+	tango-eye.svg							\
+	tango-eye-overlay.svg						\
+	tango-pupil.svg							\
+	tango-eye-mask.svg						\
 	config
 
 EXTRA_DIST = $(Tango_DATA)

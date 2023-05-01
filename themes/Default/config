@@ -1,4 +1,6 @@
 wall-thickness = 6
 num-eyes = 2
-eye-pixmap = "Default-eye.png"
-pupil-pixmap = "Default-pupil.png"
+eye-pixmap = "Default-eye.svg"
+pupil-pixmap = "Default-pupil.svg"
+scale-to-panel = 1
+

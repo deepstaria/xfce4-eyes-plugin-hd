@@ -1,0 +1,12 @@
+wall-thickness = 0
+num-eyes = 2
+eye-pixmap = "Hypno-eye.svg"
+eye-overlay-pixmap = "Hypno-eye-overlay.svg"
+eye-mask-pixmap = "Hypno-eye.svg"
+pupil-pixmap = "Hypno-pupil.svg"
+eye-frames = 6
+eye-variations = 2
+pupil-frames = 25
+pupil-variations = 2
+scale-to-panel = 1
+

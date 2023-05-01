@@ -1,8 +1,9 @@
 Bloodshotdir = $(datadir)/xfce4/eyes/themes/Bloodshot
 
 Bloodshot_DATA =							\
-	Bloodshot-eye.png						\
-	Bloodshot-pupil.png						\
+	Bloodshot-eye.svg						\
+	Bloodshot-eye-overlay.svg					\
+	Bloodshot-pupil.svg						\
 	config
 
 EXTRA_DIST = $(Bloodshot_DATA)

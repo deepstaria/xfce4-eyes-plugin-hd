@@ -1,4 +1,10 @@
 wall-thickness = 5
 num-eyes = 2
-eye-pixmap = "Bloodshot-eye.png"
-pupil-pixmap = "Bloodshot-pupil.png"
+eye-pixmap = "Bloodshot-eye.svg"
+eye-overlay-pixmap = "Bloodshot-eye-overlay.svg"
+eye-mask-pixmap = "Bloodshot-eye.svg"
+pupil-pixmap = "Bloodshot-pupil.svg"
+pupil-height = 160
+pupil-width = 160
+scale-to-panel = 1
+

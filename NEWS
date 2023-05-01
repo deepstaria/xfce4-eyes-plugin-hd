@@ -1,3 +1,19 @@
+4.7.0 (2023-04-30)
+=====
+- Anime and Hypno themes
+- Upscaled all themes with png or svg 
+- Additional theme config settings
+  eye-overlay-pixmap : overlay for eyelids
+  eye-mask-pixmap    : mask restricts pupil to within eye area
+  eye-frames         : adds blink animation
+  eye-variations     : allows multiple eye types (ie: left and right)
+  pupil-frames       : adds pupil animation
+  pupil-variations   : allows multiple pupil types
+  blinks-on-clicks   : sets number of blinks per click
+  scale-to-panel     : widget scales to panel height
+  pupil-width        : defines size of pupil when smaller than image size
+  pupil-height       :   allowing eyeveins to move with pupil in Bloodshot
+
 4.6.0 (2022-04-04)
 =====
 - Add Chibi theme (!4)

@@ -79,12 +79,14 @@ icons/24x24/Makefile
 icons/22x22/Makefile
 icons/16x16/Makefile
 themes/Makefile
+themes/Anime/Makefile
 themes/Bizarre/Makefile
 themes/Bloodshot/Makefile
+themes/Chibi/Makefile
 themes/Default/Makefile
 themes/Default-tiny/Makefile
 themes/Horrid/Makefile
+themes/Hypno/Makefile
 themes/Tango/Makefile
-themes/Chibi/Makefile
 ])
 AC_OUTPUT

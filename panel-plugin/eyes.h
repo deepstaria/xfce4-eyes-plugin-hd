@@ -39,20 +39,37 @@ typedef struct
     guint               timeout_id;
     gint               *pointer_last_x;
     gint               *pointer_last_y;
+    gboolean            blink_triggered;
+    gint                curr_blink_frame;
+    gint                curr_pupil_frame;
+    GdkPixbuf         **output_images;
 
     /* Theme */
     GdkPixbuf          *eye_image;
+    GdkPixbuf          *eye_overlay_image;
+    GdkPixbuf          *eye_mask_image;
     GdkPixbuf          *pupil_image;
     gchar              *theme_dir;
     gchar              *theme_name;
     gchar              *eye_filename;
+    gchar              *eye_overlay_filename;
+    gchar              *eye_mask_filename;
     gchar              *pupil_filename;
     gint                num_eyes;
-    gint                eye_height;
-    gint                eye_width;
+    gint                eye_frame_height;
+    gint                eye_frame_width;
+    gint                eye_frames;
+    gint                eye_variations;
     gint                pupil_height;
     gint                pupil_width;
+    gint                pupil_frame_height;
+    gint                pupil_frame_width;
+    gint                pupil_frames;
+    gint                pupil_variations;
     gint                wall_thickness;
+    gint                blinks_on_click;
+    gint                scale_to_panel;
+    
 }
 EyesPlugin;
 

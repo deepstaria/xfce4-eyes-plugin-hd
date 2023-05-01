@@ -1,4 +1,7 @@
 wall-thickness=2
 num-eyes = 3
-eye-pixmap = "Bizarre-eye.png"
-pupil-pixmap = "Bizarre-pupil.png"
+eye-pixmap = "Bizarre-eye-x4.png"
+eye-overlay-pixmap = "Bizarre-eye-overlay-x4.png"
+eye-mask-pixmap = "Bizarre-eye-x4.png"
+pupil-pixmap = "Bizarre-pupil-x4.png"
+scale-to-panel = 1

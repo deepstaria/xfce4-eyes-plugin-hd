@@ -1,0 +1,11 @@
+wall-thickness = 5
+num-eyes = 2
+eye-pixmap = "Anime-eye.svg"
+eye-overlay-pixmap = "Anime-eye-overlay.svg"
+eye-mask-pixmap = "Anime-eye.svg"
+eye-frames = 5
+eye-variations = 2
+pupil-pixmap = "Anime-pupil.svg"
+blinks-on-click = 2
+scale-to-panel = 1
+

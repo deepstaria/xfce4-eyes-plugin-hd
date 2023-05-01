@@ -1,8 +1,8 @@
 Defaultdir = $(datadir)/xfce4/eyes/themes/Default
 
 Default_DATA =								\
-	Default-eye.png							\
-	Default-pupil.png						\
+	Default-eye.svg							\
+	Default-pupil.svg						\
 	config
 
 EXTRA_DIST = $(Default_DATA)

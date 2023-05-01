@@ -1,10 +1,12 @@
 SUBDIRS = 						\
+	Anime						\
 	Bizarre						\
 	Bloodshot					\
+	Chibi						\
 	Default						\
-	Default-tiny				\
+	Default-tiny					\
 	Horrid						\
-	Tango						\
-	Chibi
+	Hypno						\
+	Tango						
 
 # vi:set ts=8 sw=8 noet ai nocindent syntax=automake:

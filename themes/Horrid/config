@@ -1,4 +1,7 @@
 wall-thickness = 6
 num-eyes = 1
-eye-pixmap = "Horrid-eye.png"
-pupil-pixmap = "Horrid-pupil.png"
+eye-pixmap = "Horrid-eye-x4.png"
+eye-overlay-pixmap = "Horrid-eye-overlay-x4.png"
+pupil-pixmap = "Horrid-pupil-x4.png"
+scale-to-panel = 1
+

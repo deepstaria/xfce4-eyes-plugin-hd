@@ -1,4 +1,6 @@
 wall-thickness = 4
 num-eyes = 2
-eye-pixmap = "chibi-eye.png"
-pupil-pixmap = "chibi-pupil.png"
+eye-pixmap = "chibi-eye.svg"
+pupil-pixmap = "chibi-pupil.svg"
+scale-to-panel = 1
+

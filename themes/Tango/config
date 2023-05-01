@@ -1,4 +1,11 @@
 wall-thickness = 4
 num-eyes = 2
-eye-pixmap = "tango-eye.png"
-pupil-pixmap = "tango-pupil.png"
+eye-pixmap = "tango-eye.svg"
+eye-overlay-pixmap = "tango-eye-overlay.svg"
+eye-mask-pixmap = "tango-eye-mask.svg"
+pupil-pixmap = "tango-pupil.svg"
+eye-frames = 4
+blinks-on-click = 2
+scale-to-panel = 1
+
+
